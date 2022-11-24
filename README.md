@@ -1,1 +1,1 @@
-# JavaScript-Challenge-Password-Generator
+# Web APIs Challenge: Code Quiz
